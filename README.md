@@ -1,58 +1,16 @@
-# Space Jekyll
+# Análisis de Señales y Sistemas
 
-A simple and elegant Jekyll theme based on Spacemacs. The theme works well on mobile devices as well.
+## Introducción
 
-See a live demo [here](https://victorvoid.github.io/space-jekyll-template/).
+El siguiente _repo_ contiene recursos para la matería _Análisis de Señales y Sistemas_ de la Facultad Regional del Neuquén, Universidad Tecnológica Nacional.
 
-![](https://github.com/victorvoid/space-jekyll-template/blob/master/screenshot.png?raw=true)
+La página se basa en el siguiente [tema](https://victorvoid.github.io/space-jekyll-template/).
 
-# Site/User Settings
+## Licencia
 
-customize your site in ``_config.yml``
-
-```ruby
-
-# Site settings
-description: A blog about lorem ipsum
-baseurl: "" # the subpath
-url: "" # the base hostname &/|| protocol for your site 
-
-# User settings
-username: Lorem Ipsum
-user_description: Lorem Developer
-user_title: Lorem Ipsum
-email: lorem@ipsum.com
-twitter_username: loremipsum
-github_username:  loremipsum
-gplus_username:  loremipsum
-disqus_username: loremipsum
-
-```
-
-## How to create a post ? 
-
-_posts create a file .md with structure:
-
-```md
----
-layout: post
-title: "Lorem ipsum speak.."
-date: 2016-09-13 01:00:00
-image: '/assets/img/post-image.png'
-description: 'about tech'
-tags:
-- lorem
-- tech 
-categories:
-- Lorem ipsum
-twitter_text: 'How to speak with Lorem'
----
-```
-
-## License
 The MIT License (MIT)
 
-Copyright (c) 2016 Victor Igor
+Copyright (c) 2017 Nelson Lombardo
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
