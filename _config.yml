@@ -4,12 +4,12 @@ description: "Sitio con recursos para la matería de Análisis de Señales y Sis
 baseurl: "" # for test: remove string '/space-jekyll-templa' to ''
 url: "http://UTN-FRN-ASS.github.io/" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.githu.io'
 # User settings
-username: lorem ipsum
-user_title: Lorem Ipsum - FrontEnd
-email: lorem.lorem@ipsum.com
-twitter_username: loremipsum
-github_username:  loremipsum
-gplus_username:  loremipsum
+username: Nelson Lombardo
+user_title: Ing. Electrónico
+email: nelson.lombardo@gmail.com
+twitter_username: 1
+github_username:  1nv1
+gplus_username:
 disqus_username: loremipsum
 
 # Build settings
@@ -27,15 +27,15 @@ compress_html:
 
 # Links to include in menu navigation
 links:
-  - title: home
+  - title: inicio
     url: /
-  - title: my posts
+  - title: mis posts
     url: /posts
   - title: series
     url: /series
   - title: tags
     url: /tags
-  - title: about me
+  - title: acerca de
     url: /about
 # projects in header index
 projects:
