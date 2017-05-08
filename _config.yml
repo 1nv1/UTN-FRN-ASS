@@ -2,7 +2,7 @@
 title: Análisis de Señales y Sistemas - UTN-FRN
 description: "Sitio con recursos para la matería de Análisis de Señales y Sistemas, UTN-FRN"
 baseurl: "" # for test: remove string '/space-jekyll-templa' to ''
-url: "http://UTN-FRN-ASS.github.io/" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.githu.io'
+url: "https://1nv1.github.io/UTN-FRN-ASS/" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.githu.io'
 # User settings
 username: Nelson Lombardo
 user_title: Ing. Electrónico
