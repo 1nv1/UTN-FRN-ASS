@@ -1,5 +1,5 @@
 # Site settings
-title: Análisis de Señales y Sistemas - UTN-FRN
+title: Análisis de Señales y Sistemas
 description: "Sitio con recursos para la matería de Análisis de Señales y Sistemas, UTN-FRN"
 baseurl: "" # for test: remove string '/space-jekyll-templa' to ''
 url: "https://1nv1.github.io/UTN-FRN-ASS/" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.githu.io'
