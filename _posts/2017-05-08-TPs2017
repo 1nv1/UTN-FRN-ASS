@@ -3,12 +3,10 @@ layout: post
 title:  "Trabajos prácticos del 2017"
 image: ''
 date:   2017-05-08 21:00:00
-tags:
-- ASS
-description: ''
-categories:
-- TP 
+comments: true
+categories: 
 ---
+
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Fourier2.jpg">
 
