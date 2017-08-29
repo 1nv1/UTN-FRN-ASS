@@ -1,9 +1,9 @@
-name: Análisis de Señales y Sistemas
+name: >
+    Análisis de señales y sistemas
 description: >
     Sitio para el intercambio de la práctica.
 about: >
     Página dedicada a la práctica de la materia Análisis de Señales y Sistemas en la Facultad Regional del Neuquén, Universidad Tecnológica Nacional.
-
 master_repo: false
 url: "https://1nv1.github.io/UTN-FRN-ASS/"
 markdown: kramdown
