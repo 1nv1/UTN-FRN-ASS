@@ -7,9 +7,6 @@ comments: true
 categories: 
 ---
 
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Fourier2.jpg">
-
 ## Listado para descargar
 
 1. <a href="https://drive.google.com/open?id=0B8Whe9RgutGNNm8tVVdtZEZTVTQ" target="_blank">Señales</a>
