@@ -7,7 +7,7 @@ about: >
 
 master_repo: false
 url: "https://1nv1.github.io/UTN-FRN-ASS/"
-markdown: markdown
+markdown: kramdown
 highlighter: rouge
 
 plugins: ['jekyll-paginate', 'jekyll-gist']
