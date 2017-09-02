@@ -15,4 +15,5 @@ Listado para descargar
 4. <a href="https://drive.google.com/open?id=0B8Whe9RgutGNendSSTM5Q2psM1k" target="_blank">Funciones complejas</a>
 5. <a href="https://drive.google.com/open?id=0B8Whe9RgutGNbmNlRXJxb1JlS2s" target="_blank">Funciones analíticas</a>
 6. <a href="https://drive.google.com/open?id=0B8Whe9RgutGNU3ZwN1lUeFN1Nk0" target="_blank">Funciones complejas: límite, derivada e integración</a>
+7. <a href="https://drive.google.com/open?id=0B8Whe9RgutGNWUhjVFpRcDN6Snc" target="_blank">Series</a>
 
