@@ -14,3 +14,4 @@ Listado para descargar
 3. <a href="https://drive.google.com/open?id=1IvyE09iuo8MnjJ29t3NcwTGQlP1Ua4xN" target="_blank">Complejos</a>
 4. <a href="https://drive.google.com/open?id=1Hh-onJGjVZkXNVYOza1q0eBOygqBC1mR" target="_blanck">Funciones complejas</a> (actualizado 11/05/18)
 5. <a href="https://drive.google.com/open?id=1pTuY87IQkYD59T2C_Hyy00ueQYONmeYs" target="_blanck">Funciones analíticas</a>
+6. <a href="https://drive.google.com/open?id=1PwSKVxWdt41ERdJWEVfJHOr9d5LACToJ" target="_blanck">Límite, Dervida e Integración</a>
