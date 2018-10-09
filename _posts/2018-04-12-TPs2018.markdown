@@ -16,3 +16,4 @@ Listado para descargar
 5. <a href="https://drive.google.com/open?id=1pTuY87IQkYD59T2C_Hyy00ueQYONmeYs" target="_blanck">Funciones analíticas</a>
 6. <a href="https://drive.google.com/open?id=1_hQs8kU6FmGC4FPuwAcTwpFKtu45-hnY" target="_blanck">Límite, Dervida e Integración</a> (actualizado 30/08/18)
 7. <a href="https://drive.google.com/open?id=1IP4swlrnRN9cFDWd_nPmm5Rydg6MNWHA" target="_blank">Series complejas</a> (inical 04/10/2018)
+8. <a href="https://drive.google.com/open?id=1jNXzOtMmQOYQjV5uJLUEKIQVljbnp-7a" target="_blank">Serie de Fourier</a> (inicial 09/10/2018)
