@@ -19,3 +19,4 @@ Listado para descargar
 8. <a href="https://drive.google.com/open?id=1jNXzOtMmQOYQjV5uJLUEKIQVljbnp-7a" target="_blank">Serie de Fourier</a> (inicial 09/10/2018)
 9. <a href="https://drive.google.com/open?id=1wwKt8YRIyw6TW9a13YJzDXmzHNr67KI3" target="_blank">Transformada de Fourier</a> (revision 09/11/2018)
 10. <a href="https://drive.google.com/open?id=1c-qkTjUFFrk5uz_9wJQO5aKuF5OqNKyV" target="_blank">Transformada de Laplace</a> (inicial 04/11/2018)
+11. <a href="https://drive.google.com/open?id=1NWNkehr_WJViQsANi-kWH9McOyE65c5b" target="_blank"> Transformada Z</a> (inicial 10/11/2018)
