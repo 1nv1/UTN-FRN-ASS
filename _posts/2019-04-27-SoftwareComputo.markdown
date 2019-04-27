@@ -7,8 +7,6 @@ comments: true
 categories: software
 ---
 
-# Software de cómputo numérico
-
 ## Introducción
 
 Los paquetes de software de cómputo númerico se componen de varias partes. En
