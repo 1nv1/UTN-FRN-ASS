@@ -17,12 +17,6 @@ acceso a las posibilidades que da la herramienta. Tienen algún módulo para hac
 el nexo con alguna herramienta para graficar, siempre con el objetivo de
 resolución numérica.
 
- Octave helps in solving linear and nonlinear problems numerically, and for
- performing other numerical experiments using a language that is mostly
- compatible with MATLAB. It may also be used as a batch-oriented language.
- Since it is part of the GNU Project, it is free software under the terms of the
- GNU General Public License. 
-
 ## Lista
 
 La [siguiente](https://en.wikipedia.org/wiki/List_of_numerical-analysis_software)
