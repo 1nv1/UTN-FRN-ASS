@@ -7,6 +7,7 @@ comments: true
 categories: software
 ---
 
+
 El [siguiente](https://drive.google.com/open?id=1o3uzJhegkeNWMsgxaYfC4nm7cYEQm7nA)
 es un material desarrollo para consulta sobre la convolución en el dominio del
 tiempo continuo, en particular, para la resolución de sistemas LTI. A pesar de
