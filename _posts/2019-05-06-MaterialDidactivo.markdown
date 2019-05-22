@@ -9,6 +9,8 @@ categories: software
 
 Material didáctico para consulta
 
-* Sistemas
+* TP02: Sistemas
   - [Convolución](https://drive.google.com/open?id=1o3uzJhegkeNWMsgxaYfC4nm7cYEQm7nA)
   continua
+* TP04: Funciones complejas
+  - [Mapeo lineal](https://drive.google.com/open?id=1mpabowfRJFin37DECUIpNSj2ODNGouLC)
