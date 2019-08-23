@@ -13,3 +13,5 @@ Listado para descargar
 2. <a href="https://drive.google.com/open?id=1eDM3S6UK5pzHf_ISoeGKO_5SrCLnSjPQ" target="_blank">Sistemas</a>
 3. <a href="https://drive.google.com/open?id=1wDNYXwFqwIv6qKQYTYjuPgJ0UGLgRbPx" target="_blank">Números complejos</a> (Update 13/04)
 4. <a href="https://drive.google.com/open?id=1tdoE28gloHWqNM_CfoOGwWTvdOTp1Fku" target="_blank">Funciones complejas</a>
+5. <a href="https://drive.google.com/open?id=1AHxOcY0SUmfnFHLV7Cf7zXfEr1G7kx0p">Funciones analíticas</a>
+6. <a href="https://drive.google.com/open?id=1hs1rKI01bZe0LeuujlIClghEDXzwesUw">Límite, Dervida e Integración</a>
