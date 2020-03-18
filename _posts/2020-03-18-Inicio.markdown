@@ -7,7 +7,7 @@ comments: true
 categories: ciclo lectivo remoto virtual
 ---
 
-# Bienvenido ciclo lectivo 2020
+## Comenzando...
 
 A quienes se anotaron a la materia les deseamos desde la cátedra un excelente
 año. Sin embargo, no es un comienzo sencillo, la pandemia del [COVID-19](https://www.who.int/emergencies/diseases/novel-coronavirus-2019)
