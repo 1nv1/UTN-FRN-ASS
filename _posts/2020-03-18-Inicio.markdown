@@ -1,0 +1,40 @@
+---
+layout: post
+title:  "Inicio de ciclo lectivo"
+image: ''
+date:   2020-03-18 19:00:00
+comments: true
+categories: ciclo lectivo remoto virtual
+---
+
+# Bienvenido ciclo lectivo 2020
+
+A quienes se anotaron a la materia les deseamos desde la cátedra un excelente
+año. Sin embargo, no es un comienzo sencillo, la pandemia del [COVID-19](https://www.who.int/emergencies/diseases/novel-coronavirus-2019)
+nos obliga a utilizar nuevas metodología de dictado de clases. Desde la práctica
+de la materia hemos decidido avanzar con [Jitsi](jitsi.org).
+Básicamente es una colección de aplicaciones web multiplataforma *open-source*,
+que consta de aplicaciones de mensajería instantanea, videoconferencia y VoIP (voz sobre IP).
+
+Existen además de la [interfaz web](https://meet.jit.si/) un *front-end* para Android.
+Para el dictado de la primera clase práctica, definiremos la reunión/meeting [UTN-FRN-ASS](https://meet.jit.si/UTN-FRN-ASS).
+
+Se ha decidido utilizar esta herramienta por el buen desempeño que ha presentado
+en general bajo conexiones de red de bajo ancho de banda. Suele presentar un
+desempeño muy fluido de audio y video, además de basarse en WebRTC, parte del
+estándar más moderno de HTML5, soportado bastante bien por las dos líneas de
+navegadores web más importantes: [Firefox](https://www.mozilla.org/) y
+[Chromium](https://www.chromium.org/).
+
+Para un buen desempeño la recomendación va ser que utilizen una PC que puede
+correr alguna de las líneas de navegadores modernos propuestos antes, en este
+caso solo necesitan tener micrófono, puesto que no va a ser necesario que
+participen con una camára, pero con el micrófono pueden participan y si no
+tienen, siempre se puede hacer uso de la aplicación de mensajería
+instantánea integrada a la web.
+
+Por último, intentaremos hacer una prueba antes de la clase del viernes 20/03
+para poder dar oportunidad a cada persona de probar la herramient y
+familiarizarse.
+
+Saludos y éxitos.
