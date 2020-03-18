@@ -12,7 +12,7 @@ categories: ciclo lectivo remoto virtual
 A quienes se anotaron a la materia les deseamos desde la cátedra un excelente
 año. Sin embargo, no es un comienzo sencillo, la pandemia del [COVID-19](https://www.who.int/emergencies/diseases/novel-coronavirus-2019)
 nos obliga a utilizar nuevas metodología de dictado de clases. Desde la práctica
-de la materia hemos decidido avanzar con [Jitsi](jitsi.org).
+de la materia hemos decidido avanzar con [Jitsi](https://jitsi.org).
 Básicamente es una colección de aplicaciones web multiplataforma *open-source*,
 que consta de aplicaciones de mensajería instantanea, videoconferencia y VoIP (voz sobre IP).
 
