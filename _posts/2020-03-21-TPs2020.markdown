@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Trabajos prácticos del 2020"
+image: ''
+date:   2020-03-21 10:19:31
+comments: true
+categories: 
+---
+
+Listado para descargar
+
+1. <a href="https://drive.google.com/open?id=1Fdy7ApAh_TZrrfx83RNu_Q90NOC8olw8" target="_blank">Señales</a> (21(03)
