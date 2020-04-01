@@ -9,9 +9,10 @@ categories: software online octave realtime
 
 ## Introducción
 
-Existe una plataforma web para poder utilizar [Octave](https://www.gnu.org/software/octave/)
-de manera online. Básicamente la plataforma otorga una interfaz web de acceso
-a un espacio de trabajo en el cual se pueden ejecutar instancia remotas de [Octave](https://www.gnu.org/software/octave/).
+Existe una [plataforma](https://octave-online.net/) web para poder utilizar
+[Octave](https://www.gnu.org/software/octave/) de manera online. Básicamente la
+plataforma otorga una interfaz web de acceso a un espacio de trabajo en el cual
+se pueden ejecutar instancia remotas de [Octave](https://www.gnu.org/software/octave/).
 
 Es ideal para aquellas personas que tienen problemas para instalar el software
 en su máquina, o no tienen acceso a su computadora personal o bien, como es este
