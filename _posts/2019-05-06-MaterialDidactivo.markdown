@@ -7,7 +7,7 @@ comments: true
 categories: software
 ---
 
-Material didáctico para consulta
+Material didáctico para consulta (updated 2020/05/02)
 
 * TP02: Sistemas
   - [Convolución continua 1](https://drive.google.com/open?id=1o3uzJhegkeNWMsgxaYfC4nm7cYEQm7nA)
