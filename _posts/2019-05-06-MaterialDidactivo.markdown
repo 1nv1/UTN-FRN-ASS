@@ -10,7 +10,7 @@ categories: software
 Material didáctico para consulta (updated 2020/05/02)
 
 * TP02: Sistemas
-  - [Convolución continua 1](https://drive.google.com/open?id=1o3uzJhegkeNWMsgxaYfC4nm7cYEQm7nA)
+  - [Convolución continua 1](https://drive.google.com/file/d/1VRvP5h3SyQvc5bjMjZTKINP1CxEIOctO/view?usp=sharing) (update 2020/05/26)
   - [Convolución continua 2](https://drive.google.com/open?id=1IVzg8BPp3GgmfkA-5xDv4bbz2B7A_wxW)
 * TP04: Funciones complejas
   - [Mapeo lineal](https://drive.google.com/open?id=1hKloPi9LJzUrreBWNVIwwp1QhoFcFTyb)
