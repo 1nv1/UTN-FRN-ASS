@@ -13,4 +13,4 @@ Material didáctico para consulta
   - [Convolución continua 1](https://drive.google.com/file/d/1VRvP5h3SyQvc5bjMjZTKINP1CxEIOctO/view?usp=sharing) (actualizado 2020/05/26)
   - [Convolución continua 2](https://drive.google.com/open?id=1IVzg8BPp3GgmfkA-5xDv4bbz2B7A_wxW)
 * TP04: Funciones complejas
-  - [Mapeo lineal](https://drive.google.com/open?id=1hKloPi9LJzUrreBWNVIwwp1QhoFcFTyb)
+  - [Mapeo Möbius](https://drive.google.com/file/d/1hKloPi9LJzUrreBWNVIwwp1QhoFcFTyb/view?usp=sharing)
