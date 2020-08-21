@@ -14,3 +14,4 @@ Listado para descargar
 3. <a href="https://drive.google.com/open?id=1TJF2cCeqypsboOm4JJ2FZ-9PpNJW3gpp" target="_blank">Número complejos</a> (Tercera revisión 05/10)
 4. <a href="https://drive.google.com/file/d/1LsbqlWxSoyXOkHO4eRhmMdYN_DszWiLC/view?usp=sharing" target="_blank">Funciones complejas</a> (Revisión 12/06)
 5. <a href="https://drive.google.com/file/d/1-SfhOHeNUMyWuzK81NLlUizcKyXLBATF/view?usp=sharing" target="_blank">Fuciones analíticas</a> (Primera revisión 15/06)
+6. <a href="https://drive.google.com/file/d/1IsIRNOjAjt4yoUPK0fd64_FQQsKktF8l/view?usp=sharing" target="_blank">Límite, Dervida e Integración</a>
