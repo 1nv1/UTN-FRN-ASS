@@ -17,3 +17,4 @@ Listado para descargar
 6. <a href="https://drive.google.com/file/d/1IsIRNOjAjt4yoUPK0fd64_FQQsKktF8l/view?usp=sharing" target="_blank">Límite, Dervida e Integración</a>
 7. <a href="https://drive.google.com/file/d/1AZS6uV6GQYMDjQByazfV2UJlQjaEKZXv/view?usp=sharing" target="_blank">Series Complejas</a>
 8. <a href="https://drive.google.com/file/d/1t3_jyuXAJL5h--ptWITkMVndPEPk_avi/view?usp=sharing" target="_blank">Series de Fourier</a>
+9. <a href="https://drive.google.com/file/d/1GKvozwmEQHWuVBFH6aF3hjkhcGpZ1eDw/view?usp=sharing" target="_blank">Transformada de Fourier</a>
