@@ -2,7 +2,10 @@ name: A.S.S.
 description: >
     Sitio para el intercambio de la práctica.
 about: >
-    Página dedicada a la práctica de la materia Análisis de Señales y Sistemas [ASS] en la Facultad Regional del Neuquén, Universidad Tecnológica Nacional.
+    Página dedicada a la práctica de la materia Análisis de Señales y Sistemas [ASS] en la Facultad Regional del Neuquén, Universidad Tecnológica Nacional. Mantenida por el Ing. Nelson Lombardo.
+    Algunos links de interés:
+      - [Scripts para la materia](https://github.com/1nv1/ASS-Software)
+      - [Experimentos para el navegador](https://github.com/1nv1/experiments)
 master_repo: false
 url: "https://1nv1.github.io/UTN-FRN-ASS/"
 markdown: kramdown
