@@ -13,7 +13,7 @@ A quienes se anotaron a la materia les deseamos desde la cátedra un excelente
 año. Lamentablemente la pandemia del [COVID-19](https://www.who.int/emergencies/diseases/novel-coronavirus-2019)
 continua y obliga al formato virtual, pero también tenemos una gran ventaja,
 ¡ya tenemos un año de experiencia en este aspecto!
-Desde la materia seguiremos utilizando para "encontrarnos" o bien [Jitsi](https://jitsi.org),
+Desde la materia seguiremos utilizando para "encontrarnos" o bien [Jitsi](https://meet.jitsi.org),
 también está [Meet](https://meet.google.com), otra buena plataforma es [Talky.io](https://talky.io/)
 y por ultimo [Discord](https://discord.com/).
 
