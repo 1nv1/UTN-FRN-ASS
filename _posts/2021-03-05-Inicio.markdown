@@ -2,7 +2,7 @@
 layout: post
 title:  "Inicio de ciclo lectivo 2021"
 image: ''
-date:   2020-03-05 23:11:00
+date:   2021-03-05 23:11:00
 comments: true
 categories: ciclo lectivo remoto virtual
 ---
