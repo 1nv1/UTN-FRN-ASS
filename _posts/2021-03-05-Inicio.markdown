@@ -24,4 +24,10 @@ o [Chromium](https://www.chromium.org/).
 Fundamentalmente haremos usufructo de dos medios siempre para comunicar cualquier información,
 por medio del correo electrónico y por medio del [campus](https://frn.cvg.utn.edu.ar/).
 
+Este año vamos a agregar un nuevo set de herramientas computacionales para trabajar desde el
+navegador directamente. Para ello iremos estudiando de utilizar dos librerías bastantes
+importantes como [math.js](https://mathjs.org/) y [p5js](https://p5js.org/). La idea es poder
+facilitar la adopción de las herramientas y ayudar a promover la participación constructiva
+por medio de la programación.
+
 Saludos y éxitos.
