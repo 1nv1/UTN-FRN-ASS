@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "Inicio de ciclo lectivo 2021"
+image: ''
+date:   2020-03-05 23:11:00
+comments: true
+categories: ciclo lectivo remoto virtual
+---
+
+## Comenzando el 2021
+
+A quienes se anotaron a la materia les deseamos desde la cátedra un excelente
+año. Lamentablemente la pandemia del [COVID-19](https://www.who.int/emergencies/diseases/novel-coronavirus-2019)
+continua y obliga al formato virtual, pero también tenemos una gran ventaja,
+¡ya tenemos un año de experiencia en este aspecto!
+Desde la materia seguiremos utilizando para "encontrarnos" o bien [Jitsi](https://jitsi.org),
+también está [Meet](https://meet.google.com), otra buena plataforma es [Talky.io](https://talky.io/)
+y por ultimo [Discord](https://discord.com/).
+
+Para hacer uso funcional de estas platarformas por favor, les pedimos que utilizen
+algún browser que soporte el estándar más moderno de HTML5, como [Firefox](https://www.mozilla.org/)
+o [Chromium](https://www.chromium.org/).
+
+Fundamentalmente haremos usufructo de dos medios siempre para comunicar cualquier información,
+por medio del correo electrónico y por medio del [campus](https://frn.cvg.utn.edu.ar/).
+
+Saludos y éxitos.
