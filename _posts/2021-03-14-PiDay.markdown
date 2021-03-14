@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Día de Pi"
+image: ''
+date:   2021-03-14 15:59
+comments: true
+categories: 
+---
+
+¡Feliz día de Pi!
+
+Esta celebración fue una iniciativa del físico Larry Shaw, en California, EE.UU.. Más información en
+[wikipedia](https://en.wikipedia.org/wiki/Pi_Day).
+
+En la que se considera la [ecuación](https://www.livescience.com/51399-eulers-identity.html) más hermosa de la matemática
+obviamente, \Pi aparece: 
+
+e^(j\Pi) + 1 = 0
