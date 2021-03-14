@@ -13,6 +13,6 @@ Esta celebración fue una iniciativa del físico Larry Shaw, en California, EE.U
 [wikipedia](https://en.wikipedia.org/wiki/Pi_Day).
 
 En la que se considera la [ecuación](https://www.livescience.com/51399-eulers-identity.html) más hermosa de la matemática
-obviamente, \Pi aparece: 
+obviamente, $$ \Pi $$ aparece: 
 
-$$ e^(j\Pi) + 1 = 0 $$
+$$ e^{j\Pi} + 1 = 0 $$
