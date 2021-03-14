@@ -12,7 +12,7 @@ categories:
 Esta celebración fue una iniciativa del físico Larry Shaw, en California, EE.UU.. Más información en
 [wikipedia](https://en.wikipedia.org/wiki/Pi_Day).
 
-En la que se considera la [ecuación](https://www.livescience.com/51399-eulers-identity.html) más hermosa de la matemática
-obviamente, $$ \Pi $$ aparece: 
+En la que se considera la [ecuación](https://www.livescience.com/51399-eulers-identity.html) más hermosa de la matemática,
+obviamente, aparece: 
 
-$$ e^{j\Pi} + 1 = 0 $$
+$$ e^{j\pi} + 1 = 0 $$
