@@ -16,3 +16,5 @@ En la que se considera la [ecuación](https://www.livescience.com/51399-eulers-i
 obviamente, aparece: 
 
 $$ e^{j\pi} + 1 = 0 $$
+
+Para quienes deseen conocer el primer millón de dígitos, sigan este [link](https://www.piday.org/million/).
