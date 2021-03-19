@@ -65,7 +65,7 @@ propósito general para análisis numérico de alta eficiencia y computación
 científica, además de algunas características muy interesante. Este lenguaje ha
 ido ganando mucha popularidad en los últimos años por sus constantes mejoras y
 características avanzadas. Se comenzó con el desarrollo en el año 2009,
-actualmente se usa en proyectos de análisis de gran evergadura.
+actualmente se usa en proyectos de análisis de gran envergadura.
 
 ## Conclusión
 
