@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Software de cómputo numérico"
+image: ''
+date:   2021-04-25 09:30:00
+comments: true
+categories: electrónics
+---
+
+## 25 de Abril de 1961
+
+Ese día **Robert Noyce** recibía la patente americana por el circuito integrado de silicio. Noyce ya poseía unas 16 patentes
+y pasó a fundar **Intel** con Gordon Moore in 1968, la compañia que inventó el microprocesador. Su apodo fue "El alcalde de
+Silicon Valley".
