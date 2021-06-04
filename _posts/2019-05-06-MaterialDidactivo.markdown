@@ -14,3 +14,4 @@ Material didáctico para consulta
   - [Convolución continua 2](https://drive.google.com/open?id=1IVzg8BPp3GgmfkA-5xDv4bbz2B7A_wxW)
 * TP04: Funciones complejas
   - [Mapeo de Inversión](https://drive.google.com/file/d/1hKloPi9LJzUrreBWNVIwwp1QhoFcFTyb/view?usp=sharing)
+  - [Intepretación de la integral](https://drive.google.com/file/d/106zkquP6l-KBk-LmkA6WwVSYoPWv31XN/view?usp=sharing)
