@@ -15,3 +15,4 @@ Listado para descargar
 4. <a href="https://drive.google.com/file/d/1XHQa-s-1qQr2w-Cs2OEwNdAQBQIohRCz/view?usp=sharing" target="_blank">Funciones Complejas</a> (Segunda revisión 08/05)
 5. <a href="https://drive.google.com/file/d/1mDCVKSmbZvYAmuYFcb2-WdqRUf19O8A3/view?usp=sharing" target="_blank">Funciones Analíticas</a> (Primera revisión 08/05)
 6. <a href="https://drive.google.com/file/d/1ZbNAmmLidsa3Wu7tjXcIqtqU4rs0Gu6i/view?usp=sharing" target="_blank">Límite, Derivada e Integral</a> (Primera revisión 04/06)
+7. <a href="https://drive.google.com/file/d/1JwDH8yQUeO91sSIsYEYVc7VmCKMi8HBr/view?usp=sharing" target="_blank">Serie compleja</a> (Primera revisión 20/08)
