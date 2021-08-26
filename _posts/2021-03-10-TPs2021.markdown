@@ -9,10 +9,10 @@ categories:
 
 Listado para descargar
 
-1. <a href="https://drive.google.com/file/d/1TPl5X_-w-ecAp8w4WegbrmNN8b99zp6I/view?usp=sharing" target="_blank">Señales</a> (Segunda revisión 19/03)
-2. <a href="https://drive.google.com/file/d/1kynmUM_9wHDZoa6use1C4pjN-hZPFQQr/view?usp=sharing" target="_blank">Sistemas</a> (Primera revisión 19/03)
-3. <a href="https://drive.google.com/file/d/1OZcyOtFdEZqYI0vCg6rNEQNFkCEvygrG/view?usp=sharing" target="_blank">Números Complejos</a> (Primera revisión 15/04)
-4. <a href="https://drive.google.com/file/d/1XHQa-s-1qQr2w-Cs2OEwNdAQBQIohRCz/view?usp=sharing" target="_blank">Funciones Complejas</a> (Segunda revisión 08/05)
-5. <a href="https://drive.google.com/file/d/1mDCVKSmbZvYAmuYFcb2-WdqRUf19O8A3/view?usp=sharing" target="_blank">Funciones Analíticas</a> (Primera revisión 08/05)
-6. <a href="https://drive.google.com/file/d/1ZbNAmmLidsa3Wu7tjXcIqtqU4rs0Gu6i/view?usp=sharing" target="_blank">Límite, Derivada e Integral</a> (Primera revisión 04/06)
-7. <a href="https://drive.google.com/file/d/1JwDH8yQUeO91sSIsYEYVc7VmCKMi8HBr/view?usp=sharing" target="_blank">Serie compleja</a> (Primera revisión 20/08)
+1. <a href="https://cloud.degoo.com/share/kNj2USRuLj13-blWSiIN8Q" target="_blank">Señales</a> (Segunda revisión 19/03)
+2. <a href="https://cloud.degoo.com/share/b_tCE00ksL0EQs0fuupg5A" target="_blank">Sistemas</a> (Primera revisión 19/03)
+3. <a href="https://cloud.degoo.com/share/eMV9QdtNJCDBprOKcvp8nw" target="_blank">Números Complejos</a> (Primera revisión 15/04)
+4. <a href="https://cloud.degoo.com/share/6xYiMAflbRAqoaqCI7SOeg" target="_blank">Funciones Complejas</a> (Segunda revisión 08/05)
+5. <a href="https://cloud.degoo.com/share/EAB1TM4D4y-El_Quv58GYw" target="_blank">Funciones Analíticas</a> (Primera revisión 08/05)
+6. <a href="https://cloud.degoo.com/share/A103DNLgxHu8mKlz3Ryy5w" target="_blank">Límite, Derivada e Integral</a> (Primera revisión 04/06)
+7. <a href="https://cloud.degoo.com/share/g6o0trbODbcbeQWFfoSGlw" target="_blank">Serie compleja</a> (Primera revisión 20/08)
