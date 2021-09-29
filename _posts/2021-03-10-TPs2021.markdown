@@ -17,3 +17,4 @@ Listado para descargar
 6. <a href="https://cloud.degoo.com/share/A103DNLgxHu8mKlz3Ryy5w" target="_blank">Límite, Derivada e Integral</a> (Primera revisión 04/06)
 7. <a href="https://cloud.degoo.com/share/g6o0trbODbcbeQWFfoSGlw" target="_blank">Serie compleja</a> (Primera revisión 20/08)
 8. <a href="https://cloud.degoo.com/share/gQrzFfBxxh7pE8x_Pj4uVQ" target="_blank">Serie de Fourier</a>
+9. <a href="https://cloud.degoo.com/share/KXwpkLTLfcYsSab664JUJA" target="_blank">Transformada de Fourier</a>
