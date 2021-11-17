@@ -19,3 +19,4 @@ Listado para descargar
 8. <a href="https://cloud.degoo.com/share/gQrzFfBxxh7pE8x_Pj4uVQ" target="_blank">Serie de Fourier</a>
 9. <a href="https://cloud.degoo.com/share/KXwpkLTLfcYsSab664JUJA" target="_blank">Transformada de Fourier</a>
 10. <a href="https://cloud.degoo.com/share/OncM81zI0OygLOT-dc6Ocw" target="_blank">Transformada de Laplace</a>
+11. <a href="https://cloud.degoo.com/share/LQQPiKsZIdZXTNDIjbLAtw" target="_blank">Transformada Z</a>
