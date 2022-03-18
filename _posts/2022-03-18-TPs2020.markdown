@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Trabajos prácticos del 2022"
+image: ''
+date:   2020-03-18 20:00:00
+comments: true
+categories: 
+---
+
+Listado para descargar
+
+1. <a href="https://cloud.degoo.com/share/ahoo8PxHjx2vR82DMdSAuQ" target="_blank">Señales</a> (Primera revisión 18/03)
