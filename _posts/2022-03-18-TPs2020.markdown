@@ -13,3 +13,4 @@ Listado para descargar
 2. <a href="https://cloud.degoo.com/share/kv1mXrnK_ZRyhaN1ohCKBA" target="_blank">Sistemas</a> (Segunda revisión 17/04)
 3. <a href="https://cloud.degoo.com/share/sBu3w7GIHA6gGjci73YGWA" target="_blank">Números complejos</a> (Primera revisión 17/04)
 4. <a href="https://cloud.degoo.com/share/Wpny76JUMwaK6I5o5a5MrA" target="_blank">Funciones complejas</a> (Primera revisión 23/04)
+5. <a href="https://cloud.degoo.com/share/mWun9vnyp2ZMtxCv1DHCZQ" target="_blank">Funciones armónicas</a> (Primera revisión 08/05)
