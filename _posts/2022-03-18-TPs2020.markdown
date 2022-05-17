@@ -14,3 +14,4 @@ Listado para descargar
 3. <a href="https://cloud.degoo.com/share/sBu3w7GIHA6gGjci73YGWA" target="_blank">Números complejos</a> (Primera revisión 17/04)
 4. <a href="https://cloud.degoo.com/share/Wpny76JUMwaK6I5o5a5MrA" target="_blank">Funciones complejas</a> (Primera revisión 23/04)
 5. <a href="https://cloud.degoo.com/share/mWun9vnyp2ZMtxCv1DHCZQ" target="_blank">Funciones analíticas</a> (Primera revisión 08/05)
+6. <a href="https://cloud.degoo.com/share/rqEjxOiDB-L2JLH_GguCIA" target="_blank">Límite, Derivada e Integrales</a> (Primera revisión 16/05)
